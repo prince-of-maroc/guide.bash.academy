@@ -1,0 +1,22 @@
+{
+  "name": "bash-academy",
+  "version": "1.0.0",
+  "description": "A free and open source guide to bash.",
+  "main": "null",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince-of-maroc/guide.bash.academy.git"
+  },
+  "keywords": [
+    "bash"
+  ],
+  "author": "Maarten Billemont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince-of-maroc/guide.bash.academy/issues"
+  },
+  "homepage": "https://github.com/prince-of-maroc/guide.bash.academy#readme"
+}
